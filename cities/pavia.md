@@ -14,6 +14,7 @@ location:
     url: http://www.valhallapv.it/
     lon: 9.1550195
     lat: 45.1812662
+start_time: 8.30pm in the evening
 hiatus: False
 hiatus_months:
     - 2018-08
