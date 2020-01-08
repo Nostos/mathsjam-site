@@ -18,7 +18,9 @@ location:
 hiatus: False
 hiatus_months:
     - 2018-08
-start_time: 8.30pm
+lang: it_IT
+poster_text: Prova
+start_time: 9.00pm
 changed_dates:
     - 2018-12-13
     - 2019-02-19
@@ -26,4 +28,6 @@ changed_dates:
     - 2019-06-19
     - 2019-07-24
     - 2019-08-27
+    - 2020-01-23
+   
 ---
